@@ -1,12 +1,12 @@
 Welcome to iNews.
 
-This is a sample project of smartphone app made by Titanium mobile. 
+This is a sample project made by Titanium mobile. 
 
 To run this app, you set your own Yahoo developer network key in Resources/window/news_detail.js
 You can get your own key at this site.
     http://developer.yahoo.co.jp/
 
-@takus
+author: @takus
 
 ----------------------------------
 Stuff our legal folk make us say:
